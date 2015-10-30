@@ -9,5 +9,6 @@ Check out his book: http://www.amazon.com/The-Programming-Language-4th-Edition/d
 <ul>
   <li><b>2.</h2> Basics</i>
   <li><b>4.</h2> Containers and Algorithms </li>
+  <li><b>6.</h2> Types and Declarations </li>
 </ul>
 
