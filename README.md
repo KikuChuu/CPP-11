@@ -10,5 +10,7 @@ Check out his book: http://www.amazon.com/The-Programming-Language-4th-Edition/d
   <li><b>2.</h2> Basics</i>
   <li><b>4.</h2> Containers and Algorithms </li>
   <li><b>6.</h2> Types and Declarations </li>
+  <li><b>7.</h2> Pointers, Arrays, and References </li>
+  <li><b>14.</h2> Namespaces </li>
 </ul>
 
