@@ -13,6 +13,7 @@ Check out his book: http://www.amazon.com/The-Programming-Language-4th-Edition/d
   <li><b>7.</h2> Pointers, Arrays, and References </li>
   <li><b>8.</h2> Structs, Unions, and Enum </li>
   <li><b>9.</h2> Statements </li>
+  <li><b>10.</h2> Expressions </li>
   <li><b>14.</h2> Namespaces </li>
   <li><b>34.</h2> Memory and Resources </li>
 </ul>
