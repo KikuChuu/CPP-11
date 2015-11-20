@@ -5,16 +5,16 @@ using namespace std;
 void foo()
 {
   const string s = "The Start of the Stream Buffer: \n";
-  ostringstream oss{s, ios_base::ate};
+  stringstream ss{s, ios_base::out|ios_base::ate};
   for (string ch; cin >> ch && ch != "q"; ) {
-    oss << ch;
-    cout << oss.str();
+    ss << ch;
+    cout << ss.str();
   }
-  oss << '\n';
+  ss << '\n';
   
   cout << "\nOutputting the result:\n";
   cout << "----------------------\n";
-  cout << oss.str();
+  cout << ss.str();
 }
 
 int main()
