@@ -21,6 +21,7 @@ Check out his book: http://www.amazon.com/The-Programming-Language-4th-Edition/d
   <li><b>15.</b> Source Files and Programs </li>
   <li><b>16.</b> Classes </li>
   <li><b>17.</b> Constructor, Destructor, Copy move</li>
+  <li><b>16.</b> Derived Classes </li>
   <li><b>34.</b> Memory and Resources </li>
   <li><b>38.</b> I/OStreams </li>
 </ul>
