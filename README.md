@@ -22,6 +22,7 @@ Check out his book: http://www.amazon.com/The-Programming-Language-4th-Edition/d
   <li><b>16.</b> Classes </li>
   <li><b>17.</b> Constructor, Destructor, Copy move</li>
   <li><b>21.</b> Class Hierarchies </li>
+  <li><b>22.</b> Run-time Type Information </li>
   <li><b>34.</b> Memory and Resources </li>
   <li><b>38.</b> I/OStreams </li>
 </ul>
