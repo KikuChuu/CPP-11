@@ -1,0 +1,7 @@
+INPUT A: re=100 and im=50
+INPUT B: re=50 and im=25
+SUM: re=150 and im=75
+DIFFERENCE: re=50 and im=25
+PRODUCT: re=5000 and im=1250
+QUOTIENT: re=2 and im=2
+NEGATION: re=-100 and im=-50

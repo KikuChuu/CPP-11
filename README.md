@@ -8,6 +8,7 @@ Check out his book: http://www.amazon.com/The-Programming-Language-4th-Edition/d
 <h2>Chapter List</h2>
 <ul>
   <li><b>2.</b> Basics</li>
+  <li><b>3.</b> Abstraction Mechanisms</li>
   <li><b>4.</b> Containers and Algorithms </li>
   <li><b>6.</b> Types and Declarations </li>
   <li><b>7.</b> Pointers, Arrays, and References </li>
